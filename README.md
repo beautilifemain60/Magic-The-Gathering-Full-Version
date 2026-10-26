@@ -250,4 +250,4 @@ This repository serves as the official landing page for Magic: The Gathering. Th
 **Get the most recent version of Magic: The Gathering today!**
 
 ---
-**Last updated:** 2026-10-26 09:52:31 UTC
+**Last updated:** 2026-10-26 16:37:19 UTC
